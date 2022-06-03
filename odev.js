@@ -11,7 +11,7 @@
 //Eğer kullanıcı secret-key girerse yani 44 sayısını girerse program çalışmadan dursun --DONE
 
 
-var x = prompt("bir sayı girin: ");
+/* var x = prompt("bir sayı girin: ");
 
 if (x == 44) {
     alert("bu sayıyı giremezsiniz")
@@ -147,4 +147,4 @@ function f6(x) {
 }
 f6(x);
 
-
+*/
